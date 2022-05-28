@@ -1,0 +1,8 @@
+.hovebutton{
+    padding: 10px;
+    border-radius: 10px;
+    width: fit-content;
+    background-color: rgba(46, 79, 226, 0.664);
+    color: aliceblue;
+    
+}
